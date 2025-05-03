@@ -23,12 +23,12 @@
    - Build from source or download the latest release from the Releases page.  
 
 3. **Drop into Mods folder**  
-   Copy `GravityMod.dll` into your game’s `Mods/` directory:
-   I Am Cat/
-├─ MelonLoader/
-├─ Mods/
-│ └─ GravityMod.dll
-└─ I Am Cat.exe
+   Copy `GravityMod.dll` into your game’s `Mods/` directory: <br>
+I Am Cat/ <br>
+├─ MelonLoader/ <br>
+├─ Mods/ <br>
+│ └─ GravityMod.dll <br>
+└─ I Am Cat.exe <br>
 
 4. **Run the game**  
 Start *I Am Cat* normally. On first-scene load you will see a log message in `MelonLoaderLogs.txt` confirming your custom gravity.
